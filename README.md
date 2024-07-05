@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS
 - 😄 Pronouns: SHE / HER
 - ⚡ Fun fact: Join me on discord sunrise_helo
+- 💬 My Discord : https://discord.gg/hnMc76UJ2r
 
 <!---
 Sunrise-hello/Sunrise-hello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
